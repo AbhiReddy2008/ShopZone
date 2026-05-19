@@ -1,0 +1,9 @@
+.search-bar{
+    button{
+        border-radius: 40%;
+        border: ;
+    }
+    input{
+        border-radius: 10px;
+    }
+}
